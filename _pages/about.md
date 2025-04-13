@@ -8,3 +8,17 @@ redirect_from:
 ---
 
 Hi! I'm Junior Student at University of Connecticut, majoring in Mechanical Engineering, minor in Mathematics, and My research interest is Fluid Mechanics, Optimization, and CFD.
+
+
+Publications
+======
+
+
+
+Conferences
+======
+
+
+
+Projects
+======
