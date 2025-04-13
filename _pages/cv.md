@@ -11,34 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* BSE in University of Connecticut, Fall 2022 - Spring 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Summer 2024: Summer Undergraduate Researcher
+  * FLUENT Lab, University of Connecticut, CT
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Chang Liu
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Fall 2024 - Present: Undergraduate Researcher
+  * FLUENT Lab, University of Connecticut, CT
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Chang Liu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Langauges: MATLAB, and Python
+* Packages:
+  * YALMIP(MATLAB toolbox for optimization modeling)
+  * Dedalus(A flexible framework for spectrally
+solving differential equations)
 * Skill 3
 
 Publications
