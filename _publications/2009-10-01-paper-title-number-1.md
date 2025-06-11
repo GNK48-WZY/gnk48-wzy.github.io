@@ -1,5 +1,5 @@
 ---
-title: "Nonlinear Input-Output Analysis of Shear Flows Using Small-Signal Finite-Gain $\mathcal{L}_p$ Stability"
+title: "Nonlinear Input-Output Analysis of Shear Flows Using Small-Signal Finite-Gain Lp Stability"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
