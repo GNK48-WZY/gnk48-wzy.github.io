@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Zhengyang Wei"
 title_separator          : "-"
 name                     : &name "Zhengyang Wei"
-description              : &description "personal description"
+description              : &description "Personal website of Zhengyang Wei, incoming PhD student at HKUST working on fluid mechanics, optimization, and nonlinear stability analysis."
 url                      : https://GNK48-WZY.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GNK48-WZY/GNK48-WZY.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhengyang Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Fluid Mechanics; Optimization; Nonlinear Stability Analysis"
+  bio              : "Incoming PhD student at HKUST (Fall 2026). Fluid mechanics, optimization, and nonlinear stability analysis."
   location         : "Storrs, CT / ShenZhen, China"
   employer         : "University of Connecticut"
   uri              : # URL
@@ -33,9 +33,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=BqbfWaYAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : ""
+  orcid            : "https://orcid.org/0009-0006-9610-3996"
   semantic         : # URL
   pubmed           : ""
   researchgate     : # URL
@@ -82,7 +82,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Proceedings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

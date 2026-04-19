@@ -11,8 +11,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /talks/    
+  - title: "Conferences"
+    url: /conferences/
+
+  - title: "News"
+    url: /news/
 
  # - title: "Teaching"
   #  url: /teaching/    
