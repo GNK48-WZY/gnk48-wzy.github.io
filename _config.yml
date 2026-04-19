@@ -37,8 +37,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-9610-3996"
   semantic         : # URL
-  pubmed           : ""
-  researchgate     : # URL
+  pubmed           : #
+  researchgate     : "https://www.researchgate.net/profile/Zhengyang-Wei-2"
   scopus           : # URL
 
   # Repositories and software development
