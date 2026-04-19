@@ -9,4 +9,3 @@ date: 2025-11-01
 location: "Houston, Texas"
 ---
 
-Presented collaborative work with Chang Liu and Wenjian Zhao on Lyapunov-based bounds for transient energy growth in accelerating and decelerating wall-driven flows.
