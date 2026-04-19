@@ -9,4 +9,3 @@ date: 2025-11-01
 location: "Houston, Texas"
 ---
 
-Presented joint work with Chang Liu on nonlinear input-output amplification in wall-bounded shear flows using the small-signal finite-gain Lp stability framework.
