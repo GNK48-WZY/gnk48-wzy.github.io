@@ -9,4 +9,3 @@ date: 2025-04-01
 location: "Providence, Rhode Island"
 ---
 
-Presented collaborative work with Chang Liu, Kirill Kochnev, and Wenjian Zhao on stability analysis of time-varying shear flows.
