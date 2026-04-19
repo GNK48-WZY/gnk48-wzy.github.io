@@ -3,7 +3,7 @@ title: "Upper bounds of transient growth in accelerating and decelerating wall-d
 collection: talks
 type: "Conference Presentation"
 talk_type: "Conference Presentation"
-permalink: [/conferences/aps-dfd-transient-growth/](https://meetings-archive.aps.org/dfd/2025/z23/6/)
+permalink: https://meetings-archive.aps.org/dfd/2025/z23/6/
 venue: "78th Annual Meeting of the APS Division of Fluid Dynamics"
 date: 2025-11-01
 location: "Houston, Texas"
